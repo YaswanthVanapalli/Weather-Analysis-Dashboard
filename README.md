@@ -131,7 +131,7 @@ Below is a snapshot of the interactive Power BI dashboard developed as part of t
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/manohar48936/Weather-Analysis-Dashboard.git
+git clone https://github.com/YaswanthVanapalli/Weather-Analysis-Dashboard
 cd Weather-Analysis-Dashboard
 ```
 2. Install required Python libraries:
@@ -158,8 +158,8 @@ pip install pandas matplotlib
 
 For queries or collaboration:
 
-**Kondeti Veera Venkata Surya Sai Manohar**  
-[GitHub](https://github.com/manohar48936) | [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile) | manohar48936@gmail.com
+**Vanapalli Sri Venkata Satya Yaswanth**  
+[GitHub]((https://github.com/YaswanthVanapalli) | [LinkedIn](https://www.linkedin.com/in/sri-venkata-satya-yaswanth-vanapalli/) | yaswanth.vanapalli112@gmail.com
 
 ---
 
