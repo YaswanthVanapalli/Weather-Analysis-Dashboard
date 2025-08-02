@@ -122,7 +122,7 @@ Below is a snapshot of the interactive Power BI dashboard developed as part of t
 
 | Name | GitHub |
 |------|--------|
-| Yaswanth Vanapalli | [@YaswanthVanapalli](https://github.com/YaswanthVanapalli) |
+| Vanapalli Sri Venkata Satya Yaswanth | [@YaswanthVanapalli](https://github.com/YaswanthVanapalli) |
 | Kondeti Veera Venkata Surya Sai Manohar | [@manohar48936](https://github.com/manohar48936) |
 ---
 
@@ -164,4 +164,5 @@ For queries or collaboration:
 ---
 
 > 💡 _This project was built as part of our Data Analysis learning to strengthen skills in data cleaning, analysis, and business intelligence reporting._
+
 
